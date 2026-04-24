@@ -1,0 +1,1447 @@
+[2026-04-22 11:12:51] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/test_geometry_page.png ---
+[2026-04-22 11:12:51] Rotación calculada: 0.43368559088918 grados via anchors
+[2026-04-22 11:12:56] Anclas únicas encontradas: 0
+[2026-04-22 11:12:59] Buscando en Zona 1: Y=0 a 2353
+[2026-04-22 11:13:02] Buscando en Zona 2: Y=538.25 a 2353
+[2026-04-22 11:13:02] Buscando en Zona 3: Y=1126.5 a 2353
+[2026-04-22 11:13:02] Buscando en Zona 4: Y=1714.75 a 2353
+[2026-04-22 11:13:02] Candidatos iniciales encontrados: 0
+[2026-04-22 11:14:11] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/test_geometry_page.png ---
+[2026-04-22 11:14:12] Rotación calculada: 0.43368559088918 grados via anchors
+[2026-04-22 11:14:17] Anclas únicas encontradas: 0
+[2026-04-22 11:14:21] Zona 1: ROI [0 - 2353]
+[2026-04-22 11:14:23] Zona 2: ROI [388 - 2353]
+[2026-04-22 11:14:24] Zona 3: ROI [976 - 2353]
+[2026-04-22 11:14:24] Zona 4: ROI [1564 - 2353]
+[2026-04-22 11:14:24] Candidatos iniciales encontrados: 0
+[2026-04-22 11:15:54] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/test_geometry_page.png ---
+[2026-04-22 11:15:55] Rotación calculada: 0.43368559088918 grados via anchors
+[2026-04-22 11:16:00] Anclas únicas encontradas: 4
+[2026-04-22 11:16:03] Zona 1: ROI [0 - 1245]
+[2026-04-22 11:16:05] Zona 2: ROI [445 - 1413]
+[2026-04-22 11:16:05] Zona 3: ROI [713 - 1683]
+[2026-04-22 11:16:05] Zona 4: ROI [983 - 2353]
+[2026-04-22 11:16:06] Candidatos iniciales encontrados: 0
+[2026-04-22 11:16:52] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/test_geometry_page.png ---
+[2026-04-22 11:16:53] Rotación calculada: 0.43368559088918 grados via anchors
+[2026-04-22 11:16:59] Anclas únicas encontradas: 4
+[2026-04-22 11:17:01] Zona 1: ROI [0 - 1245]
+[2026-04-22 11:17:01] Seed found at 167,0 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 172,0 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 197,0 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 222,0 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 247,0 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 252,0 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 387,0 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 532,0 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 577,0 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 677,10 en ROI Zone 1
+[2026-04-22 11:17:02] Seed found at 827,10 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 972,10 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 1122,10 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 1267,15 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 1417,15 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 1432,15 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 1452,15 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 1477,15 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 1497,15 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 1522,15 en ROI Zone 1
+[2026-04-22 11:17:03] Seed found at 1542,15 en ROI Zone 1
+[2026-04-22 11:17:04] Seed found at 1567,15 en ROI Zone 1
+[2026-04-22 11:17:04] Seed found at 1587,15 en ROI Zone 1
+[2026-04-22 11:17:04] Seed found at 1612,15 en ROI Zone 1
+[2026-04-22 11:17:04] Seed found at 1267,20 en ROI Zone 1
+[2026-04-22 11:17:04] Zona 2: ROI [445 - 1413]
+[2026-04-22 11:17:04] Zona 3: ROI [713 - 1683]
+[2026-04-22 11:17:04] Zona 4: ROI [983 - 2353]
+[2026-04-22 11:17:04] Seed found at 372,2003 en ROI Zone 4
+[2026-04-22 11:17:04] Seed found at 517,2003 en ROI Zone 4
+[2026-04-22 11:17:04] Seed found at 667,2003 en ROI Zone 4
+[2026-04-22 11:17:04] Seed found at 812,2003 en ROI Zone 4
+[2026-04-22 11:17:04] Seed found at 962,2008 en ROI Zone 4
+[2026-04-22 11:17:04] Seed found at 1107,2008 en ROI Zone 4
+[2026-04-22 11:17:04] Seed found at 1232,2008 en ROI Zone 4
+[2026-04-22 11:17:05] Candidatos iniciales encontrados: 0
+[2026-04-22 11:17:59] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p1.png ---
+[2026-04-22 11:18:00] Rotación calculada: 0.43368559088918 grados via anchors
+[2026-04-22 11:18:06] Anclas únicas encontradas: 4
+[2026-04-22 11:18:08] Zona 1: ROI [0 - 1245]
+[2026-04-22 11:18:08] Seed found at 167,0 en ROI Zone 1
+[2026-04-22 11:18:08] Seed found at 172,0 en ROI Zone 1
+[2026-04-22 11:18:09] Seed found at 197,0 en ROI Zone 1
+[2026-04-22 11:18:09] Seed found at 222,0 en ROI Zone 1
+[2026-04-22 11:18:09] Seed found at 247,0 en ROI Zone 1
+[2026-04-22 11:18:09] Seed found at 252,0 en ROI Zone 1
+[2026-04-22 11:18:09] Seed found at 387,0 en ROI Zone 1
+[2026-04-22 11:18:09] Seed found at 532,0 en ROI Zone 1
+[2026-04-22 11:18:09] Seed found at 577,0 en ROI Zone 1
+[2026-04-22 11:18:09] Seed found at 677,10 en ROI Zone 1
+[2026-04-22 11:18:10] Seed found at 827,10 en ROI Zone 1
+[2026-04-22 11:18:10] Seed found at 972,10 en ROI Zone 1
+[2026-04-22 11:18:10] Seed found at 1122,10 en ROI Zone 1
+[2026-04-22 11:18:10] Seed found at 1267,15 en ROI Zone 1
+[2026-04-22 11:18:10] Seed found at 1417,15 en ROI Zone 1
+[2026-04-22 11:18:11] Seed found at 1432,15 en ROI Zone 1
+[2026-04-22 11:18:11] Seed found at 1452,15 en ROI Zone 1
+[2026-04-22 11:18:11] Seed found at 1477,15 en ROI Zone 1
+[2026-04-22 11:18:11] Seed found at 1497,15 en ROI Zone 1
+[2026-04-22 11:18:11] Seed found at 1522,15 en ROI Zone 1
+[2026-04-22 11:18:11] Seed found at 1542,15 en ROI Zone 1
+[2026-04-22 11:18:11] Seed found at 1567,15 en ROI Zone 1
+[2026-04-22 11:18:11] Seed found at 1587,15 en ROI Zone 1
+[2026-04-22 11:18:12] Seed found at 1612,15 en ROI Zone 1
+[2026-04-22 11:18:12] Seed found at 1267,20 en ROI Zone 1
+[2026-04-22 11:18:12] Zona 2: ROI [445 - 1413]
+[2026-04-22 11:18:12] Zona 3: ROI [713 - 1683]
+[2026-04-22 11:18:12] Zona 4: ROI [983 - 2353]
+[2026-04-22 11:18:12] Seed found at 372,2003 en ROI Zone 4
+[2026-04-22 11:18:12] Seed found at 517,2003 en ROI Zone 4
+[2026-04-22 11:18:12] Seed found at 667,2003 en ROI Zone 4
+[2026-04-22 11:18:12] Seed found at 812,2003 en ROI Zone 4
+[2026-04-22 11:18:12] Seed found at 962,2008 en ROI Zone 4
+[2026-04-22 11:18:12] Seed found at 1107,2008 en ROI Zone 4
+[2026-04-22 11:18:12] Seed found at 1232,2008 en ROI Zone 4
+[2026-04-22 11:18:12] Candidatos iniciales encontrados: 0
+[2026-04-22 11:18:14] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p2.png ---
+[2026-04-22 11:18:15] Rotación calculada: 0.96367328259489 grados via anchors
+[2026-04-22 11:18:21] Anclas únicas encontradas: 4
+[2026-04-22 11:18:24] Zona 1: ROI [0 - 1253]
+[2026-04-22 11:18:24] Seed found at 169,0 en ROI Zone 1
+[2026-04-22 11:18:24] Seed found at 174,0 en ROI Zone 1
+[2026-04-22 11:18:24] Seed found at 199,0 en ROI Zone 1
+[2026-04-22 11:18:24] Seed found at 224,0 en ROI Zone 1
+[2026-04-22 11:18:24] Seed found at 249,0 en ROI Zone 1
+[2026-04-22 11:18:24] Seed found at 264,10 en ROI Zone 1
+[2026-04-22 11:18:24] Seed found at 394,10 en ROI Zone 1
+[2026-04-22 11:18:24] Seed found at 539,10 en ROI Zone 1
+[2026-04-22 11:18:25] Seed found at 689,15 en ROI Zone 1
+[2026-04-22 11:18:25] Seed found at 834,15 en ROI Zone 1
+[2026-04-22 11:18:25] Seed found at 984,20 en ROI Zone 1
+[2026-04-22 11:18:25] Seed found at 1129,20 en ROI Zone 1
+[2026-04-22 11:18:25] Seed found at 1279,25 en ROI Zone 1
+[2026-04-22 11:18:25] Seed found at 1424,25 en ROI Zone 1
+[2026-04-22 11:18:25] Seed found at 1449,25 en ROI Zone 1
+[2026-04-22 11:18:25] Seed found at 1474,30 en ROI Zone 1
+[2026-04-22 11:18:25] Seed found at 1494,30 en ROI Zone 1
+[2026-04-22 11:18:26] Seed found at 1499,30 en ROI Zone 1
+[2026-04-22 11:18:26] Seed found at 1519,30 en ROI Zone 1
+[2026-04-22 11:18:26] Seed found at 1544,30 en ROI Zone 1
+[2026-04-22 11:18:26] Seed found at 1564,30 en ROI Zone 1
+[2026-04-22 11:18:26] Seed found at 1589,30 en ROI Zone 1
+[2026-04-22 11:18:26] Seed found at 1609,30 en ROI Zone 1
+[2026-04-22 11:18:26] Seed found at 1634,30 en ROI Zone 1
+[2026-04-22 11:18:26] Zona 2: ROI [453 - 1421]
+[2026-04-22 11:18:26] Zona 3: ROI [721 - 1690]
+[2026-04-22 11:18:26] Zona 4: ROI [990 - 2369]
+[2026-04-22 11:18:26] Seed found at 254,2005 en ROI Zone 4
+[2026-04-22 11:18:26] Seed found at 399,2005 en ROI Zone 4
+[2026-04-22 11:18:27] Seed found at 549,2010 en ROI Zone 4
+[2026-04-22 11:18:27] Seed found at 694,2010 en ROI Zone 4
+[2026-04-22 11:18:27] Seed found at 844,2015 en ROI Zone 4
+[2026-04-22 11:18:27] Seed found at 989,2015 en ROI Zone 4
+[2026-04-22 11:18:27] Seed found at 1139,2020 en ROI Zone 4
+[2026-04-22 11:18:27] Seed found at 1284,2020 en ROI Zone 4
+[2026-04-22 11:18:27] Candidatos iniciales encontrados: 0
+[2026-04-22 11:18:29] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p3.png ---
+[2026-04-22 11:18:30] Rotación calculada: 0.38549984815318 grados via anchors
+[2026-04-22 11:18:35] Anclas únicas encontradas: 4
+[2026-04-22 11:18:38] Zona 1: ROI [0 - 1249]
+[2026-04-22 11:18:38] Seed found at 167,0 en ROI Zone 1
+[2026-04-22 11:18:38] Seed found at 172,0 en ROI Zone 1
+[2026-04-22 11:18:38] Seed found at 197,0 en ROI Zone 1
+[2026-04-22 11:18:38] Seed found at 222,0 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 247,0 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 252,0 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 392,0 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 537,0 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 542,0 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 682,10 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 832,10 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 977,10 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 1127,10 en ROI Zone 1
+[2026-04-22 11:18:39] Seed found at 1272,10 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 682,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1422,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1427,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1452,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1472,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1497,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1517,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1542,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1562,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1587,15 en ROI Zone 1
+[2026-04-22 11:18:40] Seed found at 1607,15 en ROI Zone 1
+[2026-04-22 11:18:41] Zona 2: ROI [449 - 1417]
+[2026-04-22 11:18:41] Zona 3: ROI [717 - 1687]
+[2026-04-22 11:18:41] Zona 4: ROI [987 - 2353]
+[2026-04-22 11:18:41] Seed found at 372,2002 en ROI Zone 4
+[2026-04-22 11:18:41] Seed found at 517,2002 en ROI Zone 4
+[2026-04-22 11:18:41] Seed found at 667,2002 en ROI Zone 4
+[2026-04-22 11:18:41] Seed found at 812,2007 en ROI Zone 4
+[2026-04-22 11:18:41] Seed found at 962,2007 en ROI Zone 4
+[2026-04-22 11:18:41] Seed found at 1107,2007 en ROI Zone 4
+[2026-04-22 11:18:41] Seed found at 1257,2007 en ROI Zone 4
+[2026-04-22 11:18:41] Seed found at 1282,2007 en ROI Zone 4
+[2026-04-22 11:18:41] Seed found at 812,2012 en ROI Zone 4
+[2026-04-22 11:18:41] Candidatos iniciales encontrados: 0
+[2026-04-22 11:18:44] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p4.png ---
+[2026-04-22 11:18:46] Rotación calculada: 0.62694899457613 grados via anchors
+[2026-04-22 11:18:52] Anclas únicas encontradas: 4
+[2026-04-22 11:18:55] Zona 1: ROI [0 - 1247]
+[2026-04-22 11:18:55] Seed found at 168,0 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 173,0 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 198,0 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 223,0 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 248,0 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 253,0 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 373,0 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 393,0 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 523,10 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 668,10 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 818,10 en ROI Zone 1
+[2026-04-22 11:18:55] Seed found at 963,15 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1113,15 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1258,15 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 963,20 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1408,20 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1438,20 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1458,20 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1483,20 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1503,20 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1528,20 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1548,20 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1573,20 en ROI Zone 1
+[2026-04-22 11:18:56] Seed found at 1593,20 en ROI Zone 1
+[2026-04-22 11:18:57] Seed found at 1618,20 en ROI Zone 1
+[2026-04-22 11:18:57] Zona 2: ROI [447 - 1417]
+[2026-04-22 11:18:57] Zona 3: ROI [717 - 1686]
+[2026-04-22 11:18:57] Zona 4: ROI [986 - 2359]
+[2026-04-22 11:18:57] Seed found at 373,2001 en ROI Zone 4
+[2026-04-22 11:18:57] Seed found at 518,2006 en ROI Zone 4
+[2026-04-22 11:18:57] Seed found at 668,2006 en ROI Zone 4
+[2026-04-22 11:18:57] Seed found at 813,2006 en ROI Zone 4
+[2026-04-22 11:18:57] Seed found at 518,2011 en ROI Zone 4
+[2026-04-22 11:18:57] Seed found at 963,2011 en ROI Zone 4
+[2026-04-22 11:18:57] Seed found at 1108,2011 en ROI Zone 4
+[2026-04-22 11:18:57] Seed found at 1258,2011 en ROI Zone 4
+[2026-04-22 11:18:57] Seed found at 1108,2016 en ROI Zone 4
+[2026-04-22 11:18:57] Candidatos iniciales encontrados: 0
+[2026-04-22 11:19:01] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p5.png ---
+[2026-04-22 11:19:02] Rotación calculada: 0.96448430222654 grados via anchors
+[2026-04-22 11:19:09] Anclas únicas encontradas: 4
+[2026-04-22 11:19:12] Zona 1: ROI [0 - 1255]
+[2026-04-22 11:19:12] Seed found at 169,0 en ROI Zone 1
+[2026-04-22 11:19:12] Seed found at 174,0 en ROI Zone 1
+[2026-04-22 11:19:12] Seed found at 199,0 en ROI Zone 1
+[2026-04-22 11:19:12] Seed found at 224,0 en ROI Zone 1
+[2026-04-22 11:19:12] Seed found at 249,0 en ROI Zone 1
+[2026-04-22 11:19:12] Seed found at 264,10 en ROI Zone 1
+[2026-04-22 11:19:12] Seed found at 394,10 en ROI Zone 1
+[2026-04-22 11:19:12] Seed found at 539,10 en ROI Zone 1
+[2026-04-22 11:19:12] Seed found at 689,15 en ROI Zone 1
+[2026-04-22 11:19:13] Seed found at 834,15 en ROI Zone 1
+[2026-04-22 11:19:13] Seed found at 984,20 en ROI Zone 1
+[2026-04-22 11:19:13] Seed found at 1129,20 en ROI Zone 1
+[2026-04-22 11:19:13] Seed found at 1279,25 en ROI Zone 1
+[2026-04-22 11:19:13] Seed found at 1424,25 en ROI Zone 1
+[2026-04-22 11:19:13] Seed found at 1449,25 en ROI Zone 1
+[2026-04-22 11:19:13] Seed found at 1474,30 en ROI Zone 1
+[2026-04-22 11:19:13] Seed found at 1494,30 en ROI Zone 1
+[2026-04-22 11:19:13] Seed found at 1519,30 en ROI Zone 1
+[2026-04-22 11:19:14] Seed found at 1539,30 en ROI Zone 1
+[2026-04-22 11:19:14] Seed found at 1564,30 en ROI Zone 1
+[2026-04-22 11:19:14] Seed found at 1584,30 en ROI Zone 1
+[2026-04-22 11:19:14] Seed found at 1609,30 en ROI Zone 1
+[2026-04-22 11:19:14] Seed found at 1629,30 en ROI Zone 1
+[2026-04-22 11:19:14] Zona 2: ROI [455 - 1423]
+[2026-04-22 11:19:14] Zona 3: ROI [723 - 1692]
+[2026-04-22 11:19:14] Zona 4: ROI [992 - 2369]
+[2026-04-22 11:19:14] Seed found at 254,2002 en ROI Zone 4
+[2026-04-22 11:19:14] Seed found at 399,2007 en ROI Zone 4
+[2026-04-22 11:19:14] Seed found at 549,2007 en ROI Zone 4
+[2026-04-22 11:19:14] Seed found at 399,2012 en ROI Zone 4
+[2026-04-22 11:19:14] Seed found at 694,2012 en ROI Zone 4
+[2026-04-22 11:19:14] Seed found at 844,2012 en ROI Zone 4
+[2026-04-22 11:19:14] Seed found at 694,2017 en ROI Zone 4
+[2026-04-22 11:19:14] Seed found at 989,2017 en ROI Zone 4
+[2026-04-22 11:19:15] Seed found at 1139,2017 en ROI Zone 4
+[2026-04-22 11:19:15] Seed found at 989,2022 en ROI Zone 4
+[2026-04-22 11:19:15] Seed found at 1284,2022 en ROI Zone 4
+[2026-04-22 11:19:15] Seed found at 169,2367 en ROI Zone 4
+[2026-04-22 11:19:15] Seed found at 174,2367 en ROI Zone 4
+[2026-04-22 11:19:15] Candidatos iniciales encontrados: 1
+[2026-04-22 11:19:17] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p6.png ---
+[2026-04-22 11:19:18] Rotación calculada: -4.9092606219633 grados via anchors
+[2026-04-22 11:19:24] Anclas únicas encontradas: 6
+[2026-04-22 11:19:27] Zona 1: ROI [0 - 1220]
+[2026-04-22 11:19:27] Seed found at 185,0 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 190,0 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1600,0 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1625,0 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1650,0 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1655,0 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1540,10 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1570,10 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1580,10 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1485,15 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1515,15 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1530,15 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1550,15 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1425,20 en ROI Zone 1
+[2026-04-22 11:19:28] Seed found at 1430,20 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 1250,35 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 1255,35 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 1075,50 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 1080,50 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 900,65 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 905,65 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 725,80 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 730,80 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 550,95 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 555,95 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 375,110 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 380,110 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 260,120 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 265,120 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 205,125 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 225,125 en ROI Zone 1
+[2026-04-22 11:19:29] Seed found at 275,495 en ROI Zone 1
+[2026-04-22 11:19:30] Seed found at 1695,565 en ROI Zone 1
+[2026-04-22 11:19:30] Seed found at 300,785 en ROI Zone 1
+[2026-04-22 11:19:30] Seed found at 1725,915 en ROI Zone 1
+[2026-04-22 11:19:30] Seed found at 1490,990 en ROI Zone 1
+[2026-04-22 11:19:30] Seed found at 1500,1110 en ROI Zone 1
+[2026-04-22 11:19:30] Seed found at 335,1195 en ROI Zone 1
+[2026-04-22 11:19:30] Zona 2: ROI [420 - 1249]
+[2026-04-22 11:19:30] Seed found at 1510,1225 en ROI Zone 2
+[2026-04-22 11:19:30] Zona 3: ROI [549 - 1516]
+[2026-04-22 11:19:30] Seed found at 1765,1379 en ROI Zone 3
+[2026-04-22 11:19:30] Seed found at 1525,1399 en ROI Zone 3
+[2026-04-22 11:19:30] Zona 4: ROI [816 - 2473]
+[2026-04-22 11:19:30] Seed found at 1545,1631 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 385,1776 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 1560,1806 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 1570,1921 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 1450,2021 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 1455,2021 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 1275,2036 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 1280,2036 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 1100,2051 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 1105,2051 en ROI Zone 4
+[2026-04-22 11:19:30] Seed found at 930,2066 en ROI Zone 4
+[2026-04-22 11:19:31] Seed found at 935,2066 en ROI Zone 4
+[2026-04-22 11:19:31] Seed found at 755,2081 en ROI Zone 4
+[2026-04-22 11:19:31] Seed found at 760,2081 en ROI Zone 4
+[2026-04-22 11:19:31] Seed found at 580,2096 en ROI Zone 4
+[2026-04-22 11:19:31] Seed found at 730,2426 en ROI Zone 4
+[2026-04-22 11:19:31] Candidatos iniciales encontrados: 0
+[2026-04-22 11:19:33] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p7.png ---
+[2026-04-22 11:19:34] Rotación calculada: -6.5694995347931 grados via anchors
+[2026-04-22 11:19:40] Anchor rejected by ratio: 30x52 R=0.58
+[2026-04-22 11:19:40] Anchor rejected by ratio: 33x66 R=0.5
+[2026-04-22 11:19:40] Anchor rejected by ratio: 33x62 R=0.53
+[2026-04-22 11:19:40] Anchor rejected by ratio: 125x26 R=0.21
+[2026-04-22 11:19:40] Anclas únicas encontradas: 5
+[2026-04-22 11:19:44] Zona 1: ROI [0 - 1228]
+[2026-04-22 11:19:44] Seed found at 191,0 en ROI Zone 1
+[2026-04-22 11:19:44] Seed found at 196,0 en ROI Zone 1
+[2026-04-22 11:19:44] Seed found at 1631,0 en ROI Zone 1
+[2026-04-22 11:19:44] Seed found at 1646,0 en ROI Zone 1
+[2026-04-22 11:19:44] Seed found at 1566,10 en ROI Zone 1
+[2026-04-22 11:19:44] Seed found at 1596,10 en ROI Zone 1
+[2026-04-22 11:19:44] Seed found at 1526,15 en ROI Zone 1
+[2026-04-22 11:19:44] Seed found at 1481,20 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 1351,35 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 1356,35 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 1176,55 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 1181,55 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 1006,75 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 1011,75 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 831,95 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 836,95 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 656,115 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 661,115 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 1656,120 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 481,135 en ROI Zone 1
+[2026-04-22 11:19:45] Seed found at 271,160 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 221,165 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 246,165 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 191,170 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 1676,290 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 1081,410 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 951,425 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 1701,510 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 296,635 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 1731,770 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 326,895 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 1766,1075 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 1531,1150 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 356,1155 en ROI Zone 1
+[2026-04-22 11:19:46] Seed found at 1536,1190 en ROI Zone 1
+[2026-04-22 11:19:46] Zona 2: ROI [428 - 1289]
+[2026-04-22 11:19:46] Seed found at 881,433 en ROI Zone 2
+[2026-04-22 11:19:46] Seed found at 621,463 en ROI Zone 2
+[2026-04-22 11:19:46] Seed found at 1546,1278 en ROI Zone 2
+[2026-04-22 11:19:46] Zona 3: ROI [589 - 1557]
+[2026-04-22 11:19:46] Seed found at 1551,1319 en ROI Zone 3
+[2026-04-22 11:19:46] Seed found at 1571,1494 en ROI Zone 3
+[2026-04-22 11:19:46] Seed found at 1816,1509 en ROI Zone 3
+[2026-04-22 11:19:47] Seed found at 401,1544 en ROI Zone 3
+[2026-04-22 11:19:47] Zona 4: ROI [857 - 2515]
+[2026-04-22 11:19:47] Seed found at 1581,1582 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1586,1627 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 191,1837 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1611,1842 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 196,1882 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1621,1927 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 211,2012 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1586,2017 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1591,2017 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1416,2037 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1421,2037 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 216,2052 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1241,2057 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1246,2057 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1066,2077 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1071,2077 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 891,2097 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 896,2097 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 721,2117 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 726,2117 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 546,2137 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 226,2142 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 231,2182 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1491,2372 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 1361,2387 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 796,2452 en ROI Zone 4
+[2026-04-22 11:19:47] Seed found at 666,2467 en ROI Zone 4
+[2026-04-22 11:19:47] Candidatos iniciales encontrados: 0
+[2026-04-22 11:19:49] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p8.png ---
+[2026-04-22 11:19:50] Rotación calculada: 1.2537478902975 grados via anchors
+[2026-04-22 11:19:56] Anclas únicas encontradas: 4
+[2026-04-22 11:19:59] Zona 1: ROI [0 - 1256]
+[2026-04-22 11:19:59] Seed found at 170,0 en ROI Zone 1
+[2026-04-22 11:19:59] Seed found at 175,0 en ROI Zone 1
+[2026-04-22 11:19:59] Seed found at 200,0 en ROI Zone 1
+[2026-04-22 11:19:59] Seed found at 225,0 en ROI Zone 1
+[2026-04-22 11:19:59] Seed found at 230,0 en ROI Zone 1
+[2026-04-22 11:19:59] Seed found at 245,10 en ROI Zone 1
+[2026-04-22 11:19:59] Seed found at 275,10 en ROI Zone 1
+[2026-04-22 11:19:59] Seed found at 410,10 en ROI Zone 1
+[2026-04-22 11:19:59] Seed found at 555,15 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 555,20 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 705,20 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 850,20 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 1000,25 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 1145,30 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 1295,30 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 1440,35 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 1460,35 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 1480,35 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 1505,35 en ROI Zone 1
+[2026-04-22 11:20:00] Seed found at 1525,35 en ROI Zone 1
+[2026-04-22 11:20:01] Seed found at 1530,35 en ROI Zone 1
+[2026-04-22 11:20:01] Seed found at 1550,35 en ROI Zone 1
+[2026-04-22 11:20:01] Seed found at 1575,35 en ROI Zone 1
+[2026-04-22 11:20:01] Seed found at 1600,40 en ROI Zone 1
+[2026-04-22 11:20:01] Seed found at 1620,40 en ROI Zone 1
+[2026-04-22 11:20:01] Seed found at 1655,40 en ROI Zone 1
+[2026-04-22 11:20:01] Zona 2: ROI [456 - 1423]
+[2026-04-22 11:20:01] Zona 3: ROI [723 - 1692]
+[2026-04-22 11:20:01] Zona 4: ROI [992 - 2377]
+[2026-04-22 11:20:01] Seed found at 1420,1927 en ROI Zone 4
+[2026-04-22 11:20:01] Seed found at 255,2007 en ROI Zone 4
+[2026-04-22 11:20:01] Seed found at 400,2007 en ROI Zone 4
+[2026-04-22 11:20:01] Seed found at 550,2012 en ROI Zone 4
+[2026-04-22 11:20:02] Seed found at 695,2012 en ROI Zone 4
+[2026-04-22 11:20:02] Seed found at 845,2017 en ROI Zone 4
+[2026-04-22 11:20:02] Seed found at 990,2022 en ROI Zone 4
+[2026-04-22 11:20:02] Seed found at 1140,2022 en ROI Zone 4
+[2026-04-22 11:20:02] Seed found at 1300,2027 en ROI Zone 4
+[2026-04-22 11:20:02] Candidatos iniciales encontrados: 0
+[2026-04-22 11:20:04] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p9.png ---
+[2026-04-22 11:20:05] Rotación calculada: 0.86805144974554 grados via anchors
+[2026-04-22 11:20:11] Anchor rejected by ratio: 27x47 R=0.57
+[2026-04-22 11:20:11] Anclas únicas encontradas: 5
+[2026-04-22 11:20:14] Zona 1: ROI [0 - 1247]
+[2026-04-22 11:20:14] Seed found at 169,0 en ROI Zone 1
+[2026-04-22 11:20:14] Seed found at 174,0 en ROI Zone 1
+[2026-04-22 11:20:14] Seed found at 199,0 en ROI Zone 1
+[2026-04-22 11:20:14] Seed found at 224,0 en ROI Zone 1
+[2026-04-22 11:20:14] Seed found at 249,0 en ROI Zone 1
+[2026-04-22 11:20:14] Seed found at 254,0 en ROI Zone 1
+[2026-04-22 11:20:14] Seed found at 329,10 en ROI Zone 1
+[2026-04-22 11:20:14] Seed found at 474,10 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 624,10 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 769,15 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 919,15 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 769,20 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 1064,20 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 1214,20 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 1359,25 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 1444,25 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 1469,25 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 1489,25 en ROI Zone 1
+[2026-04-22 11:20:15] Seed found at 1514,25 en ROI Zone 1
+[2026-04-22 11:20:16] Seed found at 1534,25 en ROI Zone 1
+[2026-04-22 11:20:16] Seed found at 1559,25 en ROI Zone 1
+[2026-04-22 11:20:16] Seed found at 1579,25 en ROI Zone 1
+[2026-04-22 11:20:16] Seed found at 1604,25 en ROI Zone 1
+[2026-04-22 11:20:16] Seed found at 1629,25 en ROI Zone 1
+[2026-04-22 11:20:16] Seed found at 1429,1190 en ROI Zone 1
+[2026-04-22 11:20:16] Zona 2: ROI [447 - 1415]
+[2026-04-22 11:20:16] Zona 3: ROI [715 - 1684]
+[2026-04-22 11:20:16] Zona 4: ROI [984 - 2365]
+[2026-04-22 11:20:16] Seed found at 384,2004 en ROI Zone 4
+[2026-04-22 11:20:16] Seed found at 529,2009 en ROI Zone 4
+[2026-04-22 11:20:16] Seed found at 679,2009 en ROI Zone 4
+[2026-04-22 11:20:16] Seed found at 824,2009 en ROI Zone 4
+[2026-04-22 11:20:17] Seed found at 529,2014 en ROI Zone 4
+[2026-04-22 11:20:17] Seed found at 974,2014 en ROI Zone 4
+[2026-04-22 11:20:17] Seed found at 1119,2014 en ROI Zone 4
+[2026-04-22 11:20:17] Seed found at 1269,2019 en ROI Zone 4
+[2026-04-22 11:20:17] Seed found at 169,2364 en ROI Zone 4
+[2026-04-22 11:20:17] Seed found at 174,2364 en ROI Zone 4
+[2026-04-22 11:20:17] Candidatos iniciales encontrados: 1
+[2026-04-22 11:20:19] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p10.png ---
+[2026-04-22 11:20:20] Rotación calculada: 0.38485251273192 grados via anchors
+[2026-04-22 11:20:26] Anclas únicas encontradas: 4
+[2026-04-22 11:20:28] Zona 1: ROI [0 - 1246]
+[2026-04-22 11:20:28] Seed found at 167,0 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 172,0 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 197,0 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 222,0 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 247,0 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 252,0 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 392,0 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 537,0 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 542,0 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 682,10 en ROI Zone 1
+[2026-04-22 11:20:29] Seed found at 832,10 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 977,10 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 1127,10 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 1272,10 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 682,15 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 1422,15 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 1427,15 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 1452,15 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 1472,15 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 1497,15 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 1517,15 en ROI Zone 1
+[2026-04-22 11:20:30] Seed found at 1542,15 en ROI Zone 1
+[2026-04-22 11:20:31] Seed found at 1562,15 en ROI Zone 1
+[2026-04-22 11:20:31] Seed found at 1587,15 en ROI Zone 1
+[2026-04-22 11:20:31] Seed found at 1607,15 en ROI Zone 1
+[2026-04-22 11:20:31] Zona 2: ROI [446 - 1416]
+[2026-04-22 11:20:31] Zona 3: ROI [716 - 1686]
+[2026-04-22 11:20:31] Zona 4: ROI [986 - 2353]
+[2026-04-22 11:20:31] Seed found at 372,2001 en ROI Zone 4
+[2026-04-22 11:20:31] Seed found at 517,2001 en ROI Zone 4
+[2026-04-22 11:20:31] Seed found at 667,2006 en ROI Zone 4
+[2026-04-22 11:20:31] Seed found at 812,2006 en ROI Zone 4
+[2026-04-22 11:20:31] Seed found at 962,2006 en ROI Zone 4
+[2026-04-22 11:20:32] Seed found at 1107,2006 en ROI Zone 4
+[2026-04-22 11:20:32] Seed found at 1257,2006 en ROI Zone 4
+[2026-04-22 11:20:32] Seed found at 1282,2011 en ROI Zone 4
+[2026-04-22 11:20:32] Candidatos iniciales encontrados: 0
+[2026-04-22 11:20:34] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p11.png ---
+[2026-04-22 11:20:35] Rotación calculada: 0.38549984815318 grados via anchors
+[2026-04-22 11:20:42] Anclas únicas encontradas: 4
+[2026-04-22 11:20:44] Zona 1: ROI [0 - 1248]
+[2026-04-22 11:20:44] Seed found at 167,0 en ROI Zone 1
+[2026-04-22 11:20:44] Seed found at 172,0 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 197,0 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 222,0 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 247,0 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 252,0 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 392,0 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 537,0 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 542,0 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 682,10 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 832,10 en ROI Zone 1
+[2026-04-22 11:20:45] Seed found at 977,10 en ROI Zone 1
+[2026-04-22 11:20:46] Seed found at 1127,10 en ROI Zone 1
+[2026-04-22 11:20:46] Seed found at 1272,10 en ROI Zone 1
+[2026-04-22 11:20:46] Seed found at 682,15 en ROI Zone 1
+[2026-04-22 11:20:46] Seed found at 1422,15 en ROI Zone 1
+[2026-04-22 11:20:46] Seed found at 1427,15 en ROI Zone 1
+[2026-04-22 11:20:46] Seed found at 1452,15 en ROI Zone 1
+[2026-04-22 11:20:46] Seed found at 1472,15 en ROI Zone 1
+[2026-04-22 11:20:46] Seed found at 1497,15 en ROI Zone 1
+[2026-04-22 11:20:46] Seed found at 1517,15 en ROI Zone 1
+[2026-04-22 11:20:47] Seed found at 1542,15 en ROI Zone 1
+[2026-04-22 11:20:47] Seed found at 1562,15 en ROI Zone 1
+[2026-04-22 11:20:47] Seed found at 1587,15 en ROI Zone 1
+[2026-04-22 11:20:47] Seed found at 1607,15 en ROI Zone 1
+[2026-04-22 11:20:47] Zona 2: ROI [448 - 1416]
+[2026-04-22 11:20:47] Zona 3: ROI [716 - 1686]
+[2026-04-22 11:20:47] Zona 4: ROI [986 - 2353]
+[2026-04-22 11:20:47] Seed found at 372,2001 en ROI Zone 4
+[2026-04-22 11:20:47] Seed found at 517,2001 en ROI Zone 4
+[2026-04-22 11:20:47] Seed found at 667,2006 en ROI Zone 4
+[2026-04-22 11:20:47] Seed found at 812,2006 en ROI Zone 4
+[2026-04-22 11:20:47] Seed found at 962,2006 en ROI Zone 4
+[2026-04-22 11:20:48] Seed found at 1107,2006 en ROI Zone 4
+[2026-04-22 11:20:48] Seed found at 1257,2006 en ROI Zone 4
+[2026-04-22 11:20:48] Seed found at 1282,2011 en ROI Zone 4
+[2026-04-22 11:20:48] Candidatos iniciales encontrados: 0
+[2026-04-22 11:20:50] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p12.png ---
+[2026-04-22 11:20:51] Rotación calculada: -1.4538954651089 grados via anchors
+[2026-04-22 11:20:57] Anclas únicas encontradas: 5
+[2026-04-22 11:21:00] Zona 1: ROI [0 - 1121]
+[2026-04-22 11:21:00] Seed found at 171,0 en ROI Zone 1
+[2026-04-22 11:21:00] Seed found at 176,0 en ROI Zone 1
+[2026-04-22 11:21:00] Seed found at 1516,0 en ROI Zone 1
+[2026-04-22 11:21:00] Seed found at 1541,0 en ROI Zone 1
+[2026-04-22 11:21:00] Seed found at 1566,0 en ROI Zone 1
+[2026-04-22 11:21:00] Seed found at 1591,0 en ROI Zone 1
+[2026-04-22 11:21:00] Seed found at 1616,0 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1641,0 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1656,0 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1316,10 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1321,10 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1441,10 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1466,10 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1486,10 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1121,15 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1126,15 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 1441,15 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 926,20 en ROI Zone 1
+[2026-04-22 11:21:01] Seed found at 931,20 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 726,25 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 731,25 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 531,30 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 536,30 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 331,35 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 336,35 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 171,40 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 191,40 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 216,40 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 236,40 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 191,45 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 256,530 en ROI Zone 1
+[2026-04-22 11:21:02] Seed found at 1426,595 en ROI Zone 1
+[2026-04-22 11:21:02] Zona 2: ROI [321 - 1176]
+[2026-04-22 11:21:02] Zona 3: ROI [476 - 1445]
+[2026-04-22 11:21:02] Zona 4: ROI [745 - 2383]
+[2026-04-22 11:21:02] Seed found at 1451,1580 en ROI Zone 4
+[2026-04-22 11:21:02] Seed found at 1381,2005 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 1386,2005 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 1186,2010 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 1191,2010 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 986,2015 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 991,2015 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 791,2020 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 796,2020 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 596,2025 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 601,2025 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 396,2030 en ROI Zone 4
+[2026-04-22 11:21:03] Seed found at 1461,2345 en ROI Zone 4
+[2026-04-22 11:21:03] Candidatos iniciales encontrados: 0
+[2026-04-22 11:21:05] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p13.png ---
+[2026-04-22 11:21:07] Rotación calculada: 0.57823886564674 grados via anchors
+[2026-04-22 11:21:13] Anclas únicas encontradas: 4
+[2026-04-22 11:21:16] Zona 1: ROI [0 - 1250]
+[2026-04-22 11:21:16] Seed found at 168,0 en ROI Zone 1
+[2026-04-22 11:21:16] Seed found at 173,0 en ROI Zone 1
+[2026-04-22 11:21:16] Seed found at 198,0 en ROI Zone 1
+[2026-04-22 11:21:16] Seed found at 223,0 en ROI Zone 1
+[2026-04-22 11:21:16] Seed found at 248,0 en ROI Zone 1
+[2026-04-22 11:21:17] Seed found at 253,0 en ROI Zone 1
+[2026-04-22 11:21:17] Seed found at 378,0 en ROI Zone 1
+[2026-04-22 11:21:17] Seed found at 453,0 en ROI Zone 1
+[2026-04-22 11:21:17] Seed found at 523,10 en ROI Zone 1
+[2026-04-22 11:21:17] Seed found at 673,10 en ROI Zone 1
+[2026-04-22 11:21:18] Seed found at 818,10 en ROI Zone 1
+[2026-04-22 11:21:18] Seed found at 968,15 en ROI Zone 1
+[2026-04-22 11:21:18] Seed found at 1113,15 en ROI Zone 1
+[2026-04-22 11:21:18] Seed found at 1263,15 en ROI Zone 1
+[2026-04-22 11:21:18] Seed found at 1408,15 en ROI Zone 1
+[2026-04-22 11:21:18] Seed found at 1433,15 en ROI Zone 1
+[2026-04-22 11:21:18] Seed found at 1458,20 en ROI Zone 1
+[2026-04-22 11:21:18] Seed found at 1478,20 en ROI Zone 1
+[2026-04-22 11:21:19] Seed found at 1503,20 en ROI Zone 1
+[2026-04-22 11:21:19] Seed found at 1523,20 en ROI Zone 1
+[2026-04-22 11:21:19] Seed found at 1548,20 en ROI Zone 1
+[2026-04-22 11:21:19] Seed found at 1568,20 en ROI Zone 1
+[2026-04-22 11:21:20] Seed found at 1593,20 en ROI Zone 1
+[2026-04-22 11:21:20] Seed found at 1613,20 en ROI Zone 1
+[2026-04-22 11:21:20] Zona 2: ROI [450 - 1417]
+[2026-04-22 11:21:20] Zona 3: ROI [717 - 1687]
+[2026-04-22 11:21:20] Zona 4: ROI [987 - 2357]
+[2026-04-22 11:21:20] Seed found at 373,2002 en ROI Zone 4
+[2026-04-22 11:21:20] Seed found at 518,2002 en ROI Zone 4
+[2026-04-22 11:21:20] Seed found at 668,2007 en ROI Zone 4
+[2026-04-22 11:21:20] Seed found at 813,2007 en ROI Zone 4
+[2026-04-22 11:21:20] Seed found at 963,2007 en ROI Zone 4
+[2026-04-22 11:21:20] Seed found at 1108,2012 en ROI Zone 4
+[2026-04-22 11:21:21] Seed found at 1258,2012 en ROI Zone 4
+[2026-04-22 11:21:21] Seed found at 1333,2012 en ROI Zone 4
+[2026-04-22 11:21:21] Seed found at 1108,2017 en ROI Zone 4
+[2026-04-22 11:21:21] Candidatos iniciales encontrados: 0
+[2026-04-22 11:21:23] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p14.png ---
+[2026-04-22 11:21:25] Rotación calculada: 1.1091231645687 grados via anchors
+[2026-04-22 11:21:32] Anclas únicas encontradas: 4
+[2026-04-22 11:21:35] Zona 1: ROI [0 - 1258]
+[2026-04-22 11:21:35] Seed found at 170,0 en ROI Zone 1
+[2026-04-22 11:21:35] Seed found at 175,0 en ROI Zone 1
+[2026-04-22 11:21:35] Seed found at 200,0 en ROI Zone 1
+[2026-04-22 11:21:35] Seed found at 225,0 en ROI Zone 1
+[2026-04-22 11:21:36] Seed found at 245,10 en ROI Zone 1
+[2026-04-22 11:21:36] Seed found at 280,10 en ROI Zone 1
+[2026-04-22 11:21:36] Seed found at 425,10 en ROI Zone 1
+[2026-04-22 11:21:37] Seed found at 570,15 en ROI Zone 1
+[2026-04-22 11:21:37] Seed found at 720,15 en ROI Zone 1
+[2026-04-22 11:21:37] Seed found at 570,20 en ROI Zone 1
+[2026-04-22 11:21:37] Seed found at 865,20 en ROI Zone 1
+[2026-04-22 11:21:37] Seed found at 865,25 en ROI Zone 1
+[2026-04-22 11:21:37] Seed found at 1015,25 en ROI Zone 1
+[2026-04-22 11:21:37] Seed found at 1160,25 en ROI Zone 1
+[2026-04-22 11:21:37] Seed found at 1305,30 en ROI Zone 1
+[2026-04-22 11:21:37] Seed found at 1455,30 en ROI Zone 1
+[2026-04-22 11:21:38] Seed found at 1460,30 en ROI Zone 1
+[2026-04-22 11:21:38] Seed found at 1480,30 en ROI Zone 1
+[2026-04-22 11:21:38] Seed found at 1505,30 en ROI Zone 1
+[2026-04-22 11:21:38] Seed found at 1515,30 en ROI Zone 1
+[2026-04-22 11:21:38] Seed found at 1305,35 en ROI Zone 1
+[2026-04-22 11:21:38] Seed found at 1455,35 en ROI Zone 1
+[2026-04-22 11:21:38] Seed found at 1540,35 en ROI Zone 1
+[2026-04-22 11:21:38] Seed found at 1560,35 en ROI Zone 1
+[2026-04-22 11:21:38] Seed found at 1585,35 en ROI Zone 1
+[2026-04-22 11:21:39] Seed found at 1605,35 en ROI Zone 1
+[2026-04-22 11:21:39] Seed found at 1630,35 en ROI Zone 1
+[2026-04-22 11:21:39] Zona 2: ROI [458 - 1426]
+[2026-04-22 11:21:39] Zona 3: ROI [726 - 1694]
+[2026-04-22 11:21:39] Zona 4: ROI [994 - 2373]
+[2026-04-22 11:21:39] Seed found at 255,2004 en ROI Zone 4
+[2026-04-22 11:21:39] Seed found at 400,2009 en ROI Zone 4
+[2026-04-22 11:21:39] Seed found at 550,2009 en ROI Zone 4
+[2026-04-22 11:21:39] Seed found at 695,2014 en ROI Zone 4
+[2026-04-22 11:21:39] Seed found at 845,2014 en ROI Zone 4
+[2026-04-22 11:21:39] Seed found at 990,2019 en ROI Zone 4
+[2026-04-22 11:21:39] Seed found at 1140,2019 en ROI Zone 4
+[2026-04-22 11:21:39] Seed found at 990,2024 en ROI Zone 4
+[2026-04-22 11:21:39] Seed found at 1285,2024 en ROI Zone 4
+[2026-04-22 11:21:40] Candidatos iniciales encontrados: 0
+[2026-04-22 11:21:42] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p15.png ---
+[2026-04-22 11:21:43] Rotación calculada: 0.72278477935736 grados via anchors
+[2026-04-22 11:21:51] Anclas únicas encontradas: 5
+[2026-04-22 11:21:55] Zona 1: ROI [0 - 1236]
+[2026-04-22 11:21:55] Seed found at 168,0 en ROI Zone 1
+[2026-04-22 11:21:55] Seed found at 173,0 en ROI Zone 1
+[2026-04-22 11:21:55] Seed found at 198,0 en ROI Zone 1
+[2026-04-22 11:21:55] Seed found at 223,0 en ROI Zone 1
+[2026-04-22 11:21:55] Seed found at 248,0 en ROI Zone 1
+[2026-04-22 11:21:55] Seed found at 253,0 en ROI Zone 1
+[2026-04-22 11:21:55] Seed found at 368,0 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 378,10 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 523,10 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 673,10 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 818,15 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 968,15 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 1113,15 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 1263,20 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 1408,20 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 1438,20 en ROI Zone 1
+[2026-04-22 11:21:56] Seed found at 1463,20 en ROI Zone 1
+[2026-04-22 11:21:57] Seed found at 1483,20 en ROI Zone 1
+[2026-04-22 11:21:57] Seed found at 1508,20 en ROI Zone 1
+[2026-04-22 11:21:57] Seed found at 1533,20 en ROI Zone 1
+[2026-04-22 11:21:57] Seed found at 1558,20 en ROI Zone 1
+[2026-04-22 11:21:57] Seed found at 1583,25 en ROI Zone 1
+[2026-04-22 11:21:57] Seed found at 1603,25 en ROI Zone 1
+[2026-04-22 11:21:57] Seed found at 1628,25 en ROI Zone 1
+[2026-04-22 11:21:57] Zona 2: ROI [436 - 1404]
+[2026-04-22 11:21:57] Zona 3: ROI [704 - 1674]
+[2026-04-22 11:21:57] Zona 4: ROI [974 - 2361]
+[2026-04-22 11:21:57] Seed found at 383,2004 en ROI Zone 4
+[2026-04-22 11:21:57] Seed found at 533,2004 en ROI Zone 4
+[2026-04-22 11:21:57] Seed found at 678,2009 en ROI Zone 4
+[2026-04-22 11:21:57] Seed found at 828,2009 en ROI Zone 4
+[2026-04-22 11:21:58] Seed found at 973,2009 en ROI Zone 4
+[2026-04-22 11:21:58] Seed found at 678,2014 en ROI Zone 4
+[2026-04-22 11:21:58] Seed found at 1123,2014 en ROI Zone 4
+[2026-04-22 11:21:58] Seed found at 1268,2014 en ROI Zone 4
+[2026-04-22 11:21:58] Candidatos iniciales encontrados: 0
+[2026-04-22 11:22:00] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p16.png ---
+[2026-04-22 11:22:01] Rotación calculada: 0.048147702543137 grados via anchors
+[2026-04-22 11:22:07] Anclas únicas encontradas: 4
+[2026-04-22 11:22:10] Zona 1: ROI [0 - 1254]
+[2026-04-22 11:22:10] Seed found at 165,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 170,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 195,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 220,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 245,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 250,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 395,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 540,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 690,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 835,0 en ROI Zone 1
+[2026-04-22 11:22:10] Seed found at 980,0 en ROI Zone 1
+[2026-04-22 11:22:11] Seed found at 1125,0 en ROI Zone 1
+[2026-04-22 11:22:11] Seed found at 1270,0 en ROI Zone 1
+[2026-04-22 11:22:11] Seed found at 1415,0 en ROI Zone 1
+[2026-04-22 11:22:11] Seed found at 1420,0 en ROI Zone 1
+[2026-04-22 11:22:11] Seed found at 1445,0 en ROI Zone 1
+[2026-04-22 11:22:11] Seed found at 1470,0 en ROI Zone 1
+[2026-04-22 11:22:11] Seed found at 1495,0 en ROI Zone 1
+[2026-04-22 11:22:11] Seed found at 1520,0 en ROI Zone 1
+[2026-04-22 11:22:11] Seed found at 1545,0 en ROI Zone 1
+[2026-04-22 11:22:12] Seed found at 1570,0 en ROI Zone 1
+[2026-04-22 11:22:12] Seed found at 1595,0 en ROI Zone 1
+[2026-04-22 11:22:12] Zona 2: ROI [454 - 1422]
+[2026-04-22 11:22:12] Zona 3: ROI [722 - 1692]
+[2026-04-22 11:22:12] Zona 4: ROI [992 - 2343]
+[2026-04-22 11:22:12] Seed found at 375,2002 en ROI Zone 4
+[2026-04-22 11:22:12] Seed found at 520,2002 en ROI Zone 4
+[2026-04-22 11:22:12] Seed found at 665,2002 en ROI Zone 4
+[2026-04-22 11:22:12] Seed found at 810,2002 en ROI Zone 4
+[2026-04-22 11:22:12] Seed found at 960,2002 en ROI Zone 4
+[2026-04-22 11:22:12] Seed found at 1105,2002 en ROI Zone 4
+[2026-04-22 11:22:12] Seed found at 1250,2002 en ROI Zone 4
+[2026-04-22 11:22:12] Candidatos iniciales encontrados: 0
+[2026-04-22 11:22:14] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p17.png ---
+[2026-04-22 11:22:15] Rotación calculada: 1.5929830532444 grados via anchors
+[2026-04-22 11:22:20] Anclas únicas encontradas: 4
+[2026-04-22 11:22:23] Zona 1: ROI [0 - 1256]
+[2026-04-22 11:22:23] Seed found at 172,0 en ROI Zone 1
+[2026-04-22 11:22:23] Seed found at 177,0 en ROI Zone 1
+[2026-04-22 11:22:23] Seed found at 197,10 en ROI Zone 1
+[2026-04-22 11:22:23] Seed found at 217,10 en ROI Zone 1
+[2026-04-22 11:22:23] Seed found at 242,10 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 267,10 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 352,10 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 502,15 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 647,20 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 797,25 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 942,30 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 942,35 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 1092,35 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 1237,35 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 1387,40 en ROI Zone 1
+[2026-04-22 11:22:24] Seed found at 1472,45 en ROI Zone 1
+[2026-04-22 11:22:25] Seed found at 1492,45 en ROI Zone 1
+[2026-04-22 11:22:25] Seed found at 1517,45 en ROI Zone 1
+[2026-04-22 11:22:25] Seed found at 1537,45 en ROI Zone 1
+[2026-04-22 11:22:25] Seed found at 1562,45 en ROI Zone 1
+[2026-04-22 11:22:25] Seed found at 1567,45 en ROI Zone 1
+[2026-04-22 11:22:25] Seed found at 1587,45 en ROI Zone 1
+[2026-04-22 11:22:25] Seed found at 1612,45 en ROI Zone 1
+[2026-04-22 11:22:25] Seed found at 1637,50 en ROI Zone 1
+[2026-04-22 11:22:25] Seed found at 1657,50 en ROI Zone 1
+[2026-04-22 11:22:26] Seed found at 1452,880 en ROI Zone 1
+[2026-04-22 11:22:26] Zona 2: ROI [456 - 1424]
+[2026-04-22 11:22:26] Zona 3: ROI [724 - 1693]
+[2026-04-22 11:22:26] Zona 4: ROI [993 - 2387]
+[2026-04-22 11:22:26] Seed found at 257,2008 en ROI Zone 4
+[2026-04-22 11:22:26] Seed found at 402,2008 en ROI Zone 4
+[2026-04-22 11:22:26] Seed found at 552,2013 en ROI Zone 4
+[2026-04-22 11:22:26] Seed found at 697,2018 en ROI Zone 4
+[2026-04-22 11:22:26] Seed found at 847,2023 en ROI Zone 4
+[2026-04-22 11:22:26] Seed found at 992,2028 en ROI Zone 4
+[2026-04-22 11:22:26] Seed found at 1142,2033 en ROI Zone 4
+[2026-04-22 11:22:26] Seed found at 1287,2033 en ROI Zone 4
+[2026-04-22 11:22:26] Candidatos iniciales encontrados: 0
+[2026-04-22 11:22:28] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p18.png ---
+[2026-04-22 11:22:30] Rotación calculada: 0.48106157143912 grados via anchors
+[2026-04-22 11:22:36] Anchor rejected by ratio: 31x54 R=0.57
+[2026-04-22 11:22:36] Anclas únicas encontradas: 5
+[2026-04-22 11:22:39] Zona 1: ROI [0 - 1246]
+[2026-04-22 11:22:39] Seed found at 167,0 en ROI Zone 1
+[2026-04-22 11:22:39] Seed found at 172,0 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 197,0 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 222,0 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 247,0 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 252,0 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 382,0 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 487,0 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 527,10 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 677,10 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 822,10 en ROI Zone 1
+[2026-04-22 11:22:40] Seed found at 972,10 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1117,15 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1267,15 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1412,15 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1432,15 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1452,15 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1477,15 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1497,15 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1522,15 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1542,15 en ROI Zone 1
+[2026-04-22 11:22:41] Seed found at 1567,15 en ROI Zone 1
+[2026-04-22 11:22:42] Seed found at 1592,15 en ROI Zone 1
+[2026-04-22 11:22:42] Seed found at 1617,15 en ROI Zone 1
+[2026-04-22 11:22:42] Seed found at 1117,20 en ROI Zone 1
+[2026-04-22 11:22:42] Zona 2: ROI [446 - 1414]
+[2026-04-22 11:22:42] Zona 3: ROI [714 - 1684]
+[2026-04-22 11:22:42] Zona 4: ROI [984 - 2355]
+[2026-04-22 11:22:42] Seed found at 382,2004 en ROI Zone 4
+[2026-04-22 11:22:42] Seed found at 532,2004 en ROI Zone 4
+[2026-04-22 11:22:42] Seed found at 677,2004 en ROI Zone 4
+[2026-04-22 11:22:42] Seed found at 827,2004 en ROI Zone 4
+[2026-04-22 11:22:42] Seed found at 972,2009 en ROI Zone 4
+[2026-04-22 11:22:42] Seed found at 1122,2009 en ROI Zone 4
+[2026-04-22 11:22:42] Seed found at 1267,2009 en ROI Zone 4
+[2026-04-22 11:22:43] Seed found at 1312,2009 en ROI Zone 4
+[2026-04-22 11:22:43] Seed found at 972,2014 en ROI Zone 4
+[2026-04-22 11:22:43] Candidatos iniciales encontrados: 0
+[2026-04-22 11:22:45] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p19.png ---
+[2026-04-22 11:22:46] Rotación calculada: 0.38614936489227 grados via anchors
+[2026-04-22 11:22:51] Anclas únicas encontradas: 4
+[2026-04-22 11:22:54] Zona 1: ROI [0 - 1255]
+[2026-04-22 11:22:54] Seed found at 167,0 en ROI Zone 1
+[2026-04-22 11:22:54] Seed found at 172,0 en ROI Zone 1
+[2026-04-22 11:22:54] Seed found at 197,0 en ROI Zone 1
+[2026-04-22 11:22:54] Seed found at 222,0 en ROI Zone 1
+[2026-04-22 11:22:54] Seed found at 247,0 en ROI Zone 1
+[2026-04-22 11:22:54] Seed found at 252,0 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 392,0 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 537,0 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 547,10 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 692,10 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 842,10 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 987,10 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 1137,10 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 1282,10 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 1427,15 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 1432,15 en ROI Zone 1
+[2026-04-22 11:22:55] Seed found at 1452,15 en ROI Zone 1
+[2026-04-22 11:22:56] Seed found at 1477,15 en ROI Zone 1
+[2026-04-22 11:22:56] Seed found at 1497,15 en ROI Zone 1
+[2026-04-22 11:22:56] Seed found at 1522,15 en ROI Zone 1
+[2026-04-22 11:22:56] Seed found at 1542,15 en ROI Zone 1
+[2026-04-22 11:22:56] Seed found at 1567,15 en ROI Zone 1
+[2026-04-22 11:22:56] Seed found at 1587,15 en ROI Zone 1
+[2026-04-22 11:22:56] Seed found at 1612,15 en ROI Zone 1
+[2026-04-22 11:22:56] Zona 2: ROI [455 - 1423]
+[2026-04-22 11:22:56] Zona 3: ROI [723 - 1691]
+[2026-04-22 11:22:56] Zona 4: ROI [991 - 2353]
+[2026-04-22 11:22:56] Seed found at 372,2001 en ROI Zone 4
+[2026-04-22 11:22:56] Seed found at 517,2001 en ROI Zone 4
+[2026-04-22 11:22:56] Seed found at 667,2006 en ROI Zone 4
+[2026-04-22 11:22:57] Seed found at 812,2006 en ROI Zone 4
+[2026-04-22 11:22:57] Seed found at 962,2006 en ROI Zone 4
+[2026-04-22 11:22:57] Seed found at 1107,2006 en ROI Zone 4
+[2026-04-22 11:22:57] Seed found at 1257,2006 en ROI Zone 4
+[2026-04-22 11:22:57] Seed found at 1282,2011 en ROI Zone 4
+[2026-04-22 11:22:57] Candidatos iniciales encontrados: 0
+[2026-04-22 11:22:59] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p20.png ---
+[2026-04-22 11:23:00] Rotación calculada: 0.72400248433873 grados via anchors
+[2026-04-22 11:23:06] Anclas únicas encontradas: 4
+[2026-04-22 11:23:08] Zona 1: ROI [0 - 1254]
+[2026-04-22 11:23:08] Seed found at 168,0 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 173,0 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 198,0 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 223,0 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 248,0 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 253,0 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 368,0 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 378,0 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 513,10 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 663,10 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 513,15 en ROI Zone 1
+[2026-04-22 11:23:09] Seed found at 808,15 en ROI Zone 1
+[2026-04-22 11:23:10] Seed found at 958,15 en ROI Zone 1
+[2026-04-22 11:23:10] Seed found at 1103,15 en ROI Zone 1
+[2026-04-22 11:23:10] Seed found at 1253,20 en ROI Zone 1
+[2026-04-22 11:23:10] Seed found at 1398,20 en ROI Zone 1
+[2026-04-22 11:23:10] Seed found at 1438,20 en ROI Zone 1
+[2026-04-22 11:23:10] Seed found at 1463,20 en ROI Zone 1
+[2026-04-22 11:23:10] Seed found at 1483,20 en ROI Zone 1
+[2026-04-22 11:23:10] Seed found at 1508,20 en ROI Zone 1
+[2026-04-22 11:23:10] Seed found at 1533,20 en ROI Zone 1
+[2026-04-22 11:23:11] Seed found at 1558,20 en ROI Zone 1
+[2026-04-22 11:23:11] Seed found at 1583,25 en ROI Zone 1
+[2026-04-22 11:23:11] Seed found at 1603,25 en ROI Zone 1
+[2026-04-22 11:23:11] Seed found at 1628,25 en ROI Zone 1
+[2026-04-22 11:23:11] Zona 2: ROI [454 - 1421]
+[2026-04-22 11:23:11] Zona 3: ROI [721 - 1690]
+[2026-04-22 11:23:11] Zona 4: ROI [990 - 2361]
+[2026-04-22 11:23:11] Seed found at 383,2005 en ROI Zone 4
+[2026-04-22 11:23:11] Seed found at 533,2005 en ROI Zone 4
+[2026-04-22 11:23:11] Seed found at 678,2010 en ROI Zone 4
+[2026-04-22 11:23:12] Seed found at 828,2010 en ROI Zone 4
+[2026-04-22 11:23:12] Seed found at 973,2010 en ROI Zone 4
+[2026-04-22 11:23:12] Seed found at 1123,2015 en ROI Zone 4
+[2026-04-22 11:23:12] Seed found at 1268,2015 en ROI Zone 4
+[2026-04-22 11:23:12] Seed found at 168,2360 en ROI Zone 4
+[2026-04-22 11:23:13] Seed found at 173,2360 en ROI Zone 4
+[2026-04-22 11:23:13] Candidatos iniciales encontrados: 1
+[2026-04-22 11:23:15] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p21.png ---
+[2026-04-22 11:23:16] Rotación calculada: -1.5050364882622 grados via anchors
+[2026-04-22 11:23:23] Anclas únicas encontradas: 4
+[2026-04-22 11:23:26] Zona 1: ROI [0 - 1279]
+[2026-04-22 11:23:26] Seed found at 171,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 176,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 1491,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 1516,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 1541,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 1566,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 1591,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 1616,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 1641,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 1656,0 en ROI Zone 1
+[2026-04-22 11:23:26] Seed found at 1301,10 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 1306,10 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 1436,10 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 1466,10 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 1111,15 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 1116,15 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 1436,15 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 921,20 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 926,20 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 731,25 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 736,25 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 541,30 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 546,30 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 351,35 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 356,35 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 191,40 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 211,40 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 236,40 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 211,45 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 256,515 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 1426,575 en ROI Zone 1
+[2026-04-22 11:23:27] Seed found at 1436,955 en ROI Zone 1
+[2026-04-22 11:23:27] Zona 2: ROI [479 - 1447]
+[2026-04-22 11:23:27] Seed found at 1446,1339 en ROI Zone 2
+[2026-04-22 11:23:27] Zona 3: ROI [747 - 1716]
+[2026-04-22 11:23:27] Zona 4: ROI [1016 - 2383]
+[2026-04-22 11:23:27] Seed found at 1456,1716 en ROI Zone 4
+[2026-04-22 11:23:27] Seed found at 1326,2006 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 1331,2006 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 1136,2011 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 1141,2011 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 946,2016 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 951,2016 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 756,2021 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 761,2021 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 566,2026 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 571,2026 en ROI Zone 4
+[2026-04-22 11:23:28] Seed found at 376,2031 en ROI Zone 4
+[2026-04-22 11:23:28] Candidatos iniciales encontrados: 0
+[2026-04-22 11:23:30] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p22.png ---
+[2026-04-22 11:23:30] Rotación calculada: -0.14468600435284 grados via anchors
+[2026-04-22 11:23:36] Anclas únicas encontradas: 4
+[2026-04-22 11:23:39] Zona 1: ROI [0 - 1248]
+[2026-04-22 11:23:39] Seed found at 166,0 en ROI Zone 1
+[2026-04-22 11:23:39] Seed found at 171,0 en ROI Zone 1
+[2026-04-22 11:23:39] Seed found at 196,0 en ROI Zone 1
+[2026-04-22 11:23:39] Seed found at 221,0 en ROI Zone 1
+[2026-04-22 11:23:39] Seed found at 246,0 en ROI Zone 1
+[2026-04-22 11:23:39] Seed found at 251,0 en ROI Zone 1
+[2026-04-22 11:23:39] Seed found at 396,0 en ROI Zone 1
+[2026-04-22 11:23:39] Seed found at 541,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 686,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 831,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 976,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 1121,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 1266,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 1411,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 1421,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 1446,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 1471,0 en ROI Zone 1
+[2026-04-22 11:23:40] Seed found at 1496,0 en ROI Zone 1
+[2026-04-22 11:23:41] Seed found at 1521,0 en ROI Zone 1
+[2026-04-22 11:23:41] Seed found at 1546,0 en ROI Zone 1
+[2026-04-22 11:23:41] Seed found at 1571,0 en ROI Zone 1
+[2026-04-22 11:23:41] Seed found at 1596,0 en ROI Zone 1
+[2026-04-22 11:23:41] Zona 2: ROI [448 - 1416]
+[2026-04-22 11:23:41] Zona 3: ROI [716 - 1685]
+[2026-04-22 11:23:41] Seed found at 1416,1561 en ROI Zone 3
+[2026-04-22 11:23:41] Zona 4: ROI [985 - 2345]
+[2026-04-22 11:23:41] Seed found at 441,2000 en ROI Zone 4
+[2026-04-22 11:23:41] Seed found at 586,2000 en ROI Zone 4
+[2026-04-22 11:23:41] Seed found at 731,2000 en ROI Zone 4
+[2026-04-22 11:23:41] Seed found at 876,2000 en ROI Zone 4
+[2026-04-22 11:23:41] Seed found at 1021,2000 en ROI Zone 4
+[2026-04-22 11:23:42] Seed found at 1171,2000 en ROI Zone 4
+[2026-04-22 11:23:42] Seed found at 1231,2000 en ROI Zone 4
+[2026-04-22 11:23:42] Seed found at 1021,2005 en ROI Zone 4
+[2026-04-22 11:23:42] Candidatos iniciales encontrados: 0
+[2026-04-22 11:23:44] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p23.png ---
+[2026-04-22 11:23:45] Rotación calculada: 0.52916511739903 grados via anchors
+[2026-04-22 11:23:49] Anchor rejected by ratio: 54x27 R=0.5
+[2026-04-22 11:23:49] Anclas únicas encontradas: 5
+[2026-04-22 11:23:52] Zona 1: ROI [0 - 1245]
+[2026-04-22 11:23:52] Seed found at 167,0 en ROI Zone 1
+[2026-04-22 11:23:52] Seed found at 172,0 en ROI Zone 1
+[2026-04-22 11:23:52] Seed found at 197,0 en ROI Zone 1
+[2026-04-22 11:23:52] Seed found at 222,0 en ROI Zone 1
+[2026-04-22 11:23:52] Seed found at 247,0 en ROI Zone 1
+[2026-04-22 11:23:52] Seed found at 252,0 en ROI Zone 1
+[2026-04-22 11:23:52] Seed found at 377,0 en ROI Zone 1
+[2026-04-22 11:23:52] Seed found at 412,10 en ROI Zone 1
+[2026-04-22 11:23:52] Seed found at 557,10 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 707,10 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 852,10 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 557,15 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 1002,15 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 1147,15 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 1297,15 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 1432,15 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 1437,15 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 1462,15 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 1487,15 en ROI Zone 1
+[2026-04-22 11:23:53] Seed found at 1512,20 en ROI Zone 1
+[2026-04-22 11:23:54] Seed found at 1532,20 en ROI Zone 1
+[2026-04-22 11:23:54] Seed found at 1557,20 en ROI Zone 1
+[2026-04-22 11:23:54] Seed found at 1577,20 en ROI Zone 1
+[2026-04-22 11:23:54] Seed found at 1602,20 en ROI Zone 1
+[2026-04-22 11:23:54] Seed found at 1622,20 en ROI Zone 1
+[2026-04-22 11:23:54] Zona 2: ROI [445 - 1414]
+[2026-04-22 11:23:54] Zona 3: ROI [714 - 1684]
+[2026-04-22 11:23:54] Zona 4: ROI [984 - 2357]
+[2026-04-22 11:23:54] Seed found at 382,2004 en ROI Zone 4
+[2026-04-22 11:23:54] Seed found at 532,2004 en ROI Zone 4
+[2026-04-22 11:23:54] Seed found at 677,2004 en ROI Zone 4
+[2026-04-22 11:23:55] Seed found at 827,2009 en ROI Zone 4
+[2026-04-22 11:23:55] Seed found at 972,2009 en ROI Zone 4
+[2026-04-22 11:23:55] Seed found at 1122,2009 en ROI Zone 4
+[2026-04-22 11:23:55] Seed found at 1267,2014 en ROI Zone 4
+[2026-04-22 11:23:55] Seed found at 167,2354 en ROI Zone 4
+[2026-04-22 11:23:55] Seed found at 172,2354 en ROI Zone 4
+[2026-04-22 11:23:55] Candidatos iniciales encontrados: 1
+[2026-04-22 11:24:42] --- Iniciando detección: C:\Users\Jorgegaro\Desktop\Aplicacion\EncuestasLocal/runtime/temp/full_visual_p1.png ---
+[2026-04-22 11:24:43] Rotación calculada: 0.43368559088918 grados via anchors
+[2026-04-22 13:24:43] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:24:43] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:24:44] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:24:44] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:25:04] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:25:04] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:25:04] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:25:04] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:25:22] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:25:22] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:25:22] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:25:22] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:25:32] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:25:32] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:25:32] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:25:32] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:27:46] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:27:46] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:27:46] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:27:46] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:27:53] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:27:53] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:27:53] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:27:53] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:27:58] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:27:58] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:27:58] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:27:58] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:28:04] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:28:04] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:28:04] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:28:04] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:28:50] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:28:50] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:28:50] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:28:50] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:28:57] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:28:57] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:28:57] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:28:57] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:29:02] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:29:02] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:29:02] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:29:02] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:29:07] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:29:07] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:29:07] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:29:08] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:30:31] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:30:31] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:30:31] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:30:31] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:31:12] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:31:12] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:31:12] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:31:12] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:31:33] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:31:33] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:31:33] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:31:33] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:31:39] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:31:39] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:31:39] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:31:39] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:31:44] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:31:44] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:31:44] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:31:44] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:31:49] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:31:49] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:31:50] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:31:50] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:32:54] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:32:54] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:32:54] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:32:54] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:33:11] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:33:11] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:33:11] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:33:11] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:33:20] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:33:20] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:33:20] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:33:20] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:33:27] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:33:27] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:33:27] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:33:27] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:33:34] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:33:34] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:33:34] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:33:34] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:34:28] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:34:28] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:34:28] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:34:28] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:34:36] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:34:36] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:34:36] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:34:36] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:34:44] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:34:44] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:34:44] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:34:44] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:34:51] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:34:51] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:34:51] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:34:51] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:36:04] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:36:04] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:36:04] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:36:05] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:36:40] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:36:40] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:36:40] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:36:40] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:36:48] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:36:48] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:36:48] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:36:48] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:36:56] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:36:56] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:36:56] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:36:56] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:37:03] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:37:03] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:37:03] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:37:03] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:38:41] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:38:41] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:38:41] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:38:41] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:39:33] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:39:33] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:39:33] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:39:33] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:39:41] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:39:41] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:39:41] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:39:41] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:39:48] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:39:48] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:39:48] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:39:48] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:39:56] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:39:56] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:39:56] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:39:56] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:40:45] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:40:45] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:40:45] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:40:46] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:47:30] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:47:30] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:47:30] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:47:30] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:47:52] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:47:52] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:47:52] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:47:52] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:48:01] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:48:01] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:48:01] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:48:02] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:48:09] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:48:09] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:48:09] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:48:09] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:48:16] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:48:16] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:48:16] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:48:16] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:49:14] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:49:14] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:49:14] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:49:14] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:49:33] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:49:33] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:49:33] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:49:33] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:49:40] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:49:40] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:49:40] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:49:40] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:49:45] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:49:45] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:49:45] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:49:45] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:49:51] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:49:51] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:49:51] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:49:51] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:51:07] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:51:07] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:51:07] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:51:07] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:52:14] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:52:14] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:52:14] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:52:14] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:52:33] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:52:33] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:52:33] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:52:33] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:52:41] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:52:41] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:52:41] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:52:41] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:52:47] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:52:47] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:52:47] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:52:48] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:52:56] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:52:56] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:52:56] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:52:56] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 13:53:33] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:53:33] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:53:33] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:53:33] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:55:27] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:55:27] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:55:28] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:55:28] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:56:23] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:56:23] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:56:23] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:56:23] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:56:54] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:56:54] Zona 1 (Q1): ROI absoluta en Y=272 + 75
+[2026-04-22 13:56:54] Zona 2 (Q2): ROI absoluta en Y=437 + 75
+[2026-04-22 13:56:54] Zona 3 (Q3): ROI absoluta en Y=622 + 75
+[2026-04-22 13:58:48] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 13:58:48] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 13:58:48] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 13:58:54] Zona 1 (Q1): ROI absoluta en Y=506 + 75
+[2026-04-22 13:58:54] Zona 2 (Q2): ROI absoluta en Y=771 + 75
+[2026-04-22 13:58:54] Zona 3 (Q3): ROI absoluta en Y=1036 + 75
+[2026-04-22 13:58:59] Zona 1 (Q1): ROI absoluta en Y=160 + 74
+[2026-04-22 13:58:59] Zona 2 (Q2): ROI absoluta en Y=425 + 74
+[2026-04-22 13:58:59] Zona 3 (Q3): ROI absoluta en Y=742 + 74
+[2026-04-22 13:59:05] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 13:59:05] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 13:59:05] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 13:59:05] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 14:00:19] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:00:19] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:00:19] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:00:25] Zona 1 (Q1): ROI absoluta en Y=506 + 75
+[2026-04-22 14:00:25] Zona 2 (Q2): ROI absoluta en Y=771 + 75
+[2026-04-22 14:00:25] Zona 3 (Q3): ROI absoluta en Y=1036 + 75
+[2026-04-22 14:00:30] Zona 1 (Q1): ROI absoluta en Y=160 + 74
+[2026-04-22 14:00:30] Zona 2 (Q2): ROI absoluta en Y=425 + 74
+[2026-04-22 14:00:31] Zona 3 (Q3): ROI absoluta en Y=742 + 74
+[2026-04-22 14:00:37] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 14:00:37] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 14:00:37] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 14:00:37] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 14:00:52] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:00:52] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:00:52] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:01:36] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:01:36] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:01:36] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:01:44] Zona 1 (Q1): ROI absoluta en Y=506 + 75
+[2026-04-22 14:01:44] Zona 2 (Q2): ROI absoluta en Y=771 + 75
+[2026-04-22 14:01:44] Zona 3 (Q3): ROI absoluta en Y=1036 + 75
+[2026-04-22 14:01:51] Zona 1 (Q1): ROI absoluta en Y=160 + 74
+[2026-04-22 14:01:51] Zona 2 (Q2): ROI absoluta en Y=425 + 74
+[2026-04-22 14:01:51] Zona 3 (Q3): ROI absoluta en Y=742 + 74
+[2026-04-22 14:01:58] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 14:01:58] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 14:01:58] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 14:01:58] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 14:05:01] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:05:01] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:05:01] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:05:07] Zona 1 (Q1): ROI absoluta en Y=506 + 75
+[2026-04-22 14:05:07] Zona 2 (Q2): ROI absoluta en Y=771 + 75
+[2026-04-22 14:05:08] Zona 3 (Q3): ROI absoluta en Y=1036 + 75
+[2026-04-22 14:05:13] Zona 1 (Q1): ROI absoluta en Y=160 + 74
+[2026-04-22 14:05:13] Zona 2 (Q2): ROI absoluta en Y=425 + 74
+[2026-04-22 14:05:13] Zona 3 (Q3): ROI absoluta en Y=742 + 74
+[2026-04-22 14:05:18] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 14:05:18] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 14:05:18] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 14:05:18] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 14:06:46] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:06:46] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:06:46] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:06:55] Zona 1 (Q1): ROI absoluta en Y=506 + 75
+[2026-04-22 14:06:55] Zona 2 (Q2): ROI absoluta en Y=771 + 75
+[2026-04-22 14:06:55] Zona 3 (Q3): ROI absoluta en Y=1036 + 75
+[2026-04-22 14:07:03] Zona 1 (Q1): ROI absoluta en Y=160 + 74
+[2026-04-22 14:07:03] Zona 2 (Q2): ROI absoluta en Y=425 + 74
+[2026-04-22 14:07:03] Zona 3 (Q3): ROI absoluta en Y=742 + 74
+[2026-04-22 14:07:10] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 14:07:10] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 14:07:11] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 14:07:11] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 14:07:55] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:07:55] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:07:55] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:08:03] Zona 1 (Q1): ROI absoluta en Y=506 + 75
+[2026-04-22 14:08:03] Zona 2 (Q2): ROI absoluta en Y=771 + 75
+[2026-04-22 14:08:03] Zona 3 (Q3): ROI absoluta en Y=1036 + 75
+[2026-04-22 14:08:14] Zona 1 (Q1): ROI absoluta en Y=160 + 74
+[2026-04-22 14:08:14] Zona 2 (Q2): ROI absoluta en Y=425 + 74
+[2026-04-22 14:08:14] Zona 3 (Q3): ROI absoluta en Y=742 + 74
+[2026-04-22 14:08:22] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 14:08:22] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 14:08:23] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 14:08:23] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 14:09:38] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:09:38] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:09:38] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:09:46] Zona 1 (Q1): ROI absoluta en Y=506 + 75
+[2026-04-22 14:09:46] Zona 2 (Q2): ROI absoluta en Y=771 + 75
+[2026-04-22 14:09:46] Zona 3 (Q3): ROI absoluta en Y=1036 + 75
+[2026-04-22 14:09:53] Zona 1 (Q1): ROI absoluta en Y=160 + 74
+[2026-04-22 14:09:53] Zona 2 (Q2): ROI absoluta en Y=425 + 74
+[2026-04-22 14:09:53] Zona 3 (Q3): ROI absoluta en Y=742 + 74
+[2026-04-22 14:09:59] FALLBACK: Usando zonificación absoluta (Anclas no detectadas)
+[2026-04-22 14:09:59] Zona 1 (Q1): ROI absoluta en Y=272 + 74
+[2026-04-22 14:09:59] Zona 2 (Q2): ROI absoluta en Y=437 + 74
+[2026-04-22 14:09:59] Zona 3 (Q3): ROI absoluta en Y=622 + 74
+[2026-04-22 14:10:46] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:10:46] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:10:46] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:11:42] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:11:42] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:11:42] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:12:07] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:12:07] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:12:07] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:13:19] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:13:19] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:13:19] Zona 3 (Q3): ROI absoluta en Y=916 + 74
+[2026-04-22 14:13:54] Zona 1 (Q1): ROI absoluta en Y=386 + 74
+[2026-04-22 14:13:54] Zona 2 (Q2): ROI absoluta en Y=651 + 74
+[2026-04-22 14:13:54] Zona 3 (Q3): ROI absoluta en Y=916 + 74
