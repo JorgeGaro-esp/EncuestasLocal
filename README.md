@@ -43,7 +43,7 @@ Los resultados se guardan en la carpeta runtime/debug:
 1. Instalar Tesseract OCR con los datos para español (spa).
 2. Configurar las rutas en config/config.php.
 3. Ejecutar el script principal:
-   php EncuestasLocal/test_full_visual.php
+   C:\xampp\php\php.exe test_full_visual.php 
 
 ---
 Este proyecto está diseñado para ser robusto ante escaneos con ruido o desviaciones de papel.
