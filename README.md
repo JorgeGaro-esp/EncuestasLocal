@@ -40,7 +40,7 @@ Los resultados se guardan en la carpeta runtime/debug:
 - metadata.json: Archivo estructurado con todos los datos extraídos.
 
 ## Instalación y Uso
-1. Instalar Tesseract OCR con los datos para español (spa).
+1. Instalar Tesseract OCR con los datos para español, lo encontraras en la carpeta utils (spa).
 2. Configurar las rutas en config/config.php.
 3. Ejecutar el script principal:
    C:\xampp\php\php.exe test_full_visual.php 
