@@ -40,10 +40,10 @@ Los resultados se guardan en la carpeta runtime/debug:
 - metadata.json: Archivo estructurado con todos los datos extraídos.
 
 ## Instalación y Uso
-1. Instalar Tesseract OCR con los datos para español, lo encontraras en la carpeta utils (spa).
-2. Configurar las rutas en config/config.php.
-3. Ejecutar el script principal:
-   C:\xampp\php\php.exe test_full_visual.php 
+1. Instalar Tesseract OCR con los datos para español (spa),marca durante la intalacion la opcion de todos los lenguajes, el instalador lo encontraras en la carpeta utils.
+2. Instalar Ghostscript,el instalador lo encontraras en la carpeta utils (gswin64c.exe).
+3. Configurar las rutas en config/config.php.
+4. Ejecutar el script principal: C:\xampp\php\php.exe test_full_visual.php 
 
 ---
 Este proyecto está diseñado para ser robusto ante escaneos con ruido o desviaciones de papel.
