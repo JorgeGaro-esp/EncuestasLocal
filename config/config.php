@@ -12,8 +12,7 @@ $possiblePaths = [
     $programFiles . '\\Tesseract-OCR\\tesseract.exe',
     $localAppData . '\\Programs\\Tesseract-OCR\\tesseract.exe',
     dirname(__DIR__) . '\\bin\\tesseract-ocr\\tesseract.exe',
-    // Ruta específica actual del usuario como respaldo
-    'C:\\Users\\Jorgegaro\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe'
+
 ];
 
 foreach ($possiblePaths as $path) {
