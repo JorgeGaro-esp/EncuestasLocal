@@ -3,9 +3,29 @@
  * CONFIGURACIÓN - EncuestasLocal (Tesseract Native)
  */
 
+// Detección automática de Tesseract en Windows
+$tesseractPath = 'tesseract'; // Asumir que está en el PATH por defecto
+$localAppData = getenv('LOCALAPPDATA');
+$programFiles = getenv('ProgramFiles');
+
+$possiblePaths = [
+    $programFiles . '\\Tesseract-OCR\\tesseract.exe',
+    $localAppData . '\\Programs\\Tesseract-OCR\\tesseract.exe',
+    dirname(__DIR__) . '\\bin\\tesseract-ocr\\tesseract.exe',
+    // Ruta específica actual del usuario como respaldo
+    'C:\\Users\\Jorgegaro\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe'
+];
+
+foreach ($possiblePaths as $path) {
+    if ($path && file_exists($path)) {
+        $tesseractPath = $path;
+        break;
+    }
+}
+
 return [
     'tesseract' => [
-        'path' => 'C:\\Users\\Jorgegaro\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe',
+        'path' => $tesseractPath,
         'language' => 'spa',
         'psm' => 6, // Sparse text with orientation and script detection
     ],
