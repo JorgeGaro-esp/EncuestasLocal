@@ -1,0 +1,16 @@
+# Imagenes
+*.png
+*.jpeg
+*.jpg
+
+# Carpetas de trabajo (Runtime y resultados)
+runtime/
+uploads/*.pdf
+uploads/*.png
+uploads/*.jpg
+uploads/*.jpeg
+results/
+scratch/
+
+# Configuración local (opcional, si quieres que cada uno tenga su config)
+# config/config.php
